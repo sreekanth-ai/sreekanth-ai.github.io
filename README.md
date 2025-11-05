@@ -27,7 +27,7 @@ Deployed with **Streamlit** for an interactive web interface.
 ---
 
 ### ❤️ [Heart Attack Prediction](https://github.com/sreekanth-ai/heart-attack-prediction)
-<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/sreekanth-ai/sreekanth-ai.github.io/main/Images/heart-attack.png">
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/sreekanth-ai/sreekanth-ai.github.io/main/Images/heart.png">
 Built a classification model to predict heart attack likelihood based on user health data like cholesterol, BP, and age.  
 Deployed using **Streamlit** for real-time predictions.  
 
@@ -36,7 +36,7 @@ Deployed using **Streamlit** for real-time predictions.
 ---
 
 ### 🌾 [Crop Recommendation System](https://github.com/sreekanth-ai/crop-recommendation)
-<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/sreekanth-ai/sreekanth-ai.github.io/main/Images/crop-recommendation.jpg">
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/sreekanth-ai/sreekanth-ai.github.io/main/Images/Crop Recommendation.jpg">
 Recommended optimal crops based on soil nutrients and weather conditions.  
 Deployed using **Flask** for user-friendly access.  
 
@@ -45,7 +45,7 @@ Deployed using **Flask** for user-friendly access.
 ---
 
 ### ✉️ [Email Spam Classifier](https://github.com/sreekanth-ai/email-spam-classifier)
-<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/sreekanth-ai/sreekanth-ai.github.io/main/Images/email-spam.jpg">
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/sreekanth-ai/sreekanth-ai.github.io/main/Images/Email Spam Classification.jpg">
 Detected spam messages using Natural Language Processing techniques.  
 Implemented TF-IDF and Naive Bayes for text classification.  
 
@@ -54,7 +54,7 @@ Implemented TF-IDF and Naive Bayes for text classification.
 ---
 
 ### 🌾 [Rice Disease Classification](https://github.com/sreekanth-ai/rice-disease-classification)
-<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/sreekanth-ai/sreekanth-ai.github.io/main/Images/rice-disease.jpg">
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/sreekanth-ai/sreekanth-ai.github.io/main/Images/Rice Disease Classification.jpg">
 Built a **CNN-based model** to classify rice leaf diseases such as bacterial blight, brown spot, and leaf smut.  
 Used image augmentation and preprocessing to improve accuracy.  
 
@@ -63,7 +63,7 @@ Used image augmentation and preprocessing to improve accuracy.
 ---
 
 ### 💬 [Sentiment Analysis](https://github.com/sreekanth-ai/sentiment-analysis)
-<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/sreekanth-ai/sreekanth-ai.github.io/main/Images/sentiment-analysis.jpg">
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/sreekanth-ai/sreekanth-ai.github.io/main/Images/Sentiment Analysis with LSMT.jpg">
 Performed sentiment classification on text data to identify positive, negative, or neutral opinions.  
 Used TF-IDF vectorization and Logistic Regression for accurate results.  
 
