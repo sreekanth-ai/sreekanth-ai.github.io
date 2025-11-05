@@ -36,7 +36,7 @@ Deployed using **Streamlit** for real-time predictions.
 ### 🌾 [Crop Recommendation System](https://github.com/sreekanth-ai/crop-recommendation)
 <img align="left" width="250" height="150" src="https://raw.githubusercontent.com/sreekanth-ai/sreekanth-ai.github.io/main/Images/Crop Recommendation.jpg">
 Recommended optimal crops based on soil nutrients and weather conditions.  
-Deployed using **Flask** for user-friendly access.  
+Deployed using **Flask** for user-friendly access. 
 
 **Tools:** Python, Flask, Scikit-learn  
 #
