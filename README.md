@@ -34,7 +34,7 @@ Deployed using **Streamlit** for real-time predictions.
 #
 ---
 ### 🌾 [Crop Recommendation System](https://github.com/sreekanth-ai/crop-recommendation)
-<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/sreekanth-ai/sreekanth-ai.github.io/main/Images/Crop Recommendation.jpg">
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/sreekanth-ai/sreekanth-ai.github.io/main/Images/Crop.png">
 Recommended optimal crops based on soil nutrients and weather conditions.  
 Deployed using **Flask** for user-friendly access. 
 
@@ -42,7 +42,7 @@ Deployed using **Flask** for user-friendly access.
 #
 ---
 ### 🧮 [Laptop Price Prediction](https://github.com/sreekanth-ai/laptop-price-prediction)
-<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/sreekanth-ai/sreekanth-ai.github.io/main/Images/Laptop Price Prediction.jpg">
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/sreekanth-ai/sreekanth-ai.github.io/main/Images/Laptop.png">
 Developed a regression model to predict laptop prices using features like CPU, RAM, and GPU.  
 Deployed with **Streamlit** for an interactive web interface.  
 
