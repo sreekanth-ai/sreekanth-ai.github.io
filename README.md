@@ -18,57 +18,52 @@ This portfolio showcases my Data Science and Machine Learning projects, built du
 ## 🚀 Projects
 
 ### 🧮 [Laptop Price Prediction](https://github.com/sreekanth-ai/laptop-price-prediction)
-<img align="left" width="250" height="150" src="https://github.com/sreekanth-ai/sreekanth-ai.github.io/blob/main/images/laptop-price.jpg">  
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/sreekanth-ai/sreekanth-ai.github.io/main/Images/laptop-price.jpg">  
 Developed a regression model to predict laptop prices using features like CPU, RAM, and GPU.  
 Deployed with **Streamlit** for an interactive web interface.  
 
 **Tools:** Python, Pandas, Streamlit, Scikit-learn  
 #
-
 ---
 
 ### ❤️ [Heart Attack Prediction](https://github.com/sreekanth-ai/heart-attack-prediction)
-<img align="left" width="250" height="150" src="https://github.com/sreekanth-ai/sreekanth-ai.github.io/blob/main/images/heart-attack.png">  
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/sreekanth-ai/sreekanth-ai.github.io/main/Images/heart-attack.png">  
 Built a classification model to predict heart attack likelihood based on user health data like cholesterol, BP, and age.  
 Deployed using **Streamlit** for real-time predictions.  
 
 **Tools:** Python, Pandas, Scikit-learn, Streamlit  
 #
-
 ---
 
 ### 🌾 [Crop Recommendation System](https://github.com/sreekanth-ai/crop-recommendation)
-<img align="left" width="250" height="150" src="https://github.com/sreekanth-ai/sreekanth-ai.github.io/blob/main/images/crop-recommendation.jpg">  
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/sreekanth-ai/sreekanth-ai.github.io/main/Images/crop-recommendation.jpg">  
 Recommended optimal crops based on soil nutrients and weather conditions.  
 Deployed using **Flask** for user-friendly access.  
 
 **Tools:** Python, Flask, Scikit-learn  
 #
-
 ---
 
 ### ✉️ [Email Spam Classifier](https://github.com/sreekanth-ai/email-spam-classifier)
-<img align="left" width="250" height="150" src="https://github.com/sreekanth-ai/sreekanth-ai.github.io/blob/main/images/email-spam.jpg">  
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/sreekanth-ai/sreekanth-ai.github.io/main/Images/email-spam.jpg">  
 Detected spam messages using Natural Language Processing techniques.  
 Implemented TF-IDF and Naive Bayes for text classification.  
 
 **Tools:** Python, Scikit-learn, NLTK  
 #
-
 ---
 
 ### 🌾 [Rice Disease Classification](https://github.com/sreekanth-ai/rice-disease-classification)
-<img align="left" width="250" height="150" src="https://github.com/sreekanth-ai/sreekanth-ai.github.io/blob/main/images/rice-disease.jpg">  
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/sreekanth-ai/sreekanth-ai.github.io/main/Images/rice-disease.jpg">  
 Built a **CNN-based model** to classify rice leaf diseases such as bacterial blight, brown spot, and leaf smut.  
 Used image augmentation and preprocessing to improve accuracy.  
 
 **Tools:** Python, TensorFlow, Keras, OpenCV  
 #
-
 ---
 
 ### 💬 [Sentiment Analysis](https://github.com/sreekanth-ai/sentiment-analysis)
-<img align="left" width="250" height="150" src="https://github.com/sreekanth-ai/sreekanth-ai.github.io/blob/main/images/sentiment-analysis.jpg">  
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/sreekanth-ai/sreekanth-ai.github.io/main/Images/sentiment-analysis.jpg">  
 Performed sentiment classification on text data to identify positive, negative, or neutral opinions.  
 Used TF-IDF vectorization and Logistic Regression for accurate results.  
 
