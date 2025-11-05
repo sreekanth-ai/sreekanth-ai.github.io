@@ -23,9 +23,15 @@ Developed a regression model to predict laptop prices based on specifications su
 
 ---
 
-### ❤️ [Heart Attack Prediction](https://github.com/sreekanth-ai/heart-attack-prediction)
-*Tools:* Python, Streamlit, Logistic Regression, RandomForest  
-Created a web app that predicts heart attack likelihood based on user health metrics. Deployed using Streamlit.
+<img align="left" width="250" height="150" src="https://github.com/sreekanth-ai/sreekanth-ai.github.io/blob/main/51234554-99ec-4acb-b1cb-745e48aa525c.png"> **### ❤️### ❤️ [Heart Attack Prediction](https://github.com/sreekanth-ai/heart-attack-prediction)**  
+
+Developed a machine learning model to predict the likelihood of heart attack based on user health parameters such as age, cholesterol, and blood pressure.  
+Deployed using **Streamlit** for an interactive web interface.
+
+**Tools:** Python, Pandas, Scikit-learn, Streamlit  
+**Techniques:** Classification, Logistic Regression, Random Forest  
+
+#
 
 ---
 
