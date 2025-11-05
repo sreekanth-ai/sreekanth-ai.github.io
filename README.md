@@ -42,7 +42,7 @@ Deployed using **Flask** for user-friendly access.
 #
 ---
 ### 🧮 [Laptop Price Prediction](https://github.com/sreekanth-ai/laptop-price-prediction)
-<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/sreekanth-ai/sreekanth-ai.github.io/main/Images/Laptop-Price-Prediction.jpg">
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/sreekanth-ai/sreekanth-ai.github.io/main/Images/Laptop Price Prediction.jpg">
 Developed a regression model to predict laptop prices using features like CPU, RAM, and GPU.  
 Deployed with **Streamlit** for an interactive web interface.  
 
