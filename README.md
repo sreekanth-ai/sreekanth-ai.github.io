@@ -42,7 +42,7 @@ Deployed using **Flask** for user-friendly access.
 #
 ---
 ### 🧮 [Laptop Price Prediction](https://github.com/sreekanth-ai/laptop-price-prediction)
-<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/sreekanth-ai/sreekanth-ai.github.io/main/Images/laptop-price.jpg">
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/sreekanth-ai/sreekanth-ai.github.io/main/Images/Laptop Price Prediction.jpg">
 Developed a regression model to predict laptop prices using features like CPU, RAM, and GPU.  
 Deployed with **Streamlit** for an interactive web interface.  
 
@@ -59,7 +59,7 @@ Used image augmentation and preprocessing to improve accuracy.
 ---
 
 ### 💬 [Sentiment Analysis](https://github.com/sreekanth-ai/sentiment-analysis)
-<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/sreekanth-ai/sreekanth-ai.github.io/main/Images/Sentiment Analysis with LSMT.jpg">
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/sreekanth-ai/sreekanth-ai.github.io/main/Images/Sentiment Analysis.jpg">
 Performed sentiment classification on text data to identify positive, negative, or neutral opinions.  
 Used TF-IDF vectorization and Logistic Regression for accurate results.  
 
