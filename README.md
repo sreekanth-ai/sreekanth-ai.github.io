@@ -3,6 +3,7 @@
 Passionate about turning data into actionable insights through ML models and analytics.
 
 --- 
+
 This portfolio showcases my Data Science and Machine Learning projects, built during internships, academic work, and self-learning. It includes my achievements, skills, and certifications.
 
 ## About Me
@@ -10,6 +11,8 @@ Passionate Data Science and Machine Learning Engineer dedicated to transforming 
 I enjoy building predictive models, deploying ML applications, and exploring data-driven decision-making.
 Throughout my journey, I’ve completed multiple internships and projects where I gained hands-on experience in Machine Learning, AI, and Data Analysis.
 My goal is to continuously grow as a data professional and contribute to innovative, impactful projects that make a real-world difference.
+
+---
 
 ## ✉️ Contact Section
 - **Email:** [polusreekanthreddys@gmail.com](mailto:polusreekanthreddys@gmail.com)
