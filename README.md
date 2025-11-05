@@ -18,44 +18,62 @@ This portfolio showcases my Data Science and Machine Learning projects, built du
 ## 🚀 Projects
 
 ### 🧮 [Laptop Price Prediction](https://github.com/sreekanth-ai/laptop-price-prediction)
-*Tools:* Python, Pandas, Streamlit, Scikit-Learn  
-Developed a regression model to predict laptop prices based on specifications such as CPU, RAM, and GPU. Deployed with Streamlit for interactive predictions.
+<img align="left" width="250" height="150" src="https://github.com/sreekanth-ai/sreekanth-ai.github.io/blob/main/images/laptop-price.jpg">  
+Developed a regression model to predict laptop prices using features like CPU, RAM, and GPU.  
+Deployed with **Streamlit** for an interactive web interface.  
+
+**Tools:** Python, Pandas, Streamlit, Scikit-learn  
+#
 
 ---
 
-<img align="left" width="250" height="150" src="https://github.com/sreekanth-ai/sreekanth-ai.github.io/blob/main/51234554-99ec-4acb-b1cb-745e48aa525c.png"> **### ❤️### ❤️ [Heart Attack Prediction](https://github.com/sreekanth-ai/heart-attack-prediction)**  
-
-Developed a machine learning model to predict the likelihood of heart attack based on user health parameters such as age, cholesterol, and blood pressure.  
-Deployed using **Streamlit** for an interactive web interface.
+### ❤️ [Heart Attack Prediction](https://github.com/sreekanth-ai/heart-attack-prediction)
+<img align="left" width="250" height="150" src="https://github.com/sreekanth-ai/sreekanth-ai.github.io/blob/main/images/heart-attack.png">  
+Built a classification model to predict heart attack likelihood based on user health data like cholesterol, BP, and age.  
+Deployed using **Streamlit** for real-time predictions.  
 
 **Tools:** Python, Pandas, Scikit-learn, Streamlit  
-**Techniques:** Classification, Logistic Regression, Random Forest  
-
 #
 
 ---
 
 ### 🌾 [Crop Recommendation System](https://github.com/sreekanth-ai/crop-recommendation)
-*Tools:* Python, Flask, Machine Learning  
-Suggested optimal crops based on soil nutrients and weather data. Integrated Flask for deployment and built a user-friendly interface.
+<img align="left" width="250" height="150" src="https://github.com/sreekanth-ai/sreekanth-ai.github.io/blob/main/images/crop-recommendation.jpg">  
+Recommended optimal crops based on soil nutrients and weather conditions.  
+Deployed using **Flask** for user-friendly access.  
+
+**Tools:** Python, Flask, Scikit-learn  
+#
 
 ---
 
-### 🎬 [Netflix Data Analysis](https://github.com/sreekanth-ai/netflix-analysis)
-*Tools:* Python, Pandas, Matplotlib, Seaborn  
-Performed data cleaning, analysis, and visualization of Netflix dataset to identify trends and patterns in content type, rating, and release year.
+### ✉️ [Email Spam Classifier](https://github.com/sreekanth-ai/email-spam-classifier)
+<img align="left" width="250" height="150" src="https://github.com/sreekanth-ai/sreekanth-ai.github.io/blob/main/images/email-spam.jpg">  
+Detected spam messages using Natural Language Processing techniques.  
+Implemented TF-IDF and Naive Bayes for text classification.  
+
+**Tools:** Python, Scikit-learn, NLTK  
+#
 
 ---
 
-### 🎥 [Movie Recommendation System](https://github.com/sreekanth-ai/movie-recommendation)
-*Tools:* Python, Randomized SVD, Scikit-Learn  
-Built a recommender system using collaborative filtering (Randomized SVD) to suggest movies based on user preferences.
+### 🌾 [Rice Disease Classification](https://github.com/sreekanth-ai/rice-disease-classification)
+<img align="left" width="250" height="150" src="https://github.com/sreekanth-ai/sreekanth-ai.github.io/blob/main/images/rice-disease.jpg">  
+Built a **CNN-based model** to classify rice leaf diseases such as bacterial blight, brown spot, and leaf smut.  
+Used image augmentation and preprocessing to improve accuracy.  
+
+**Tools:** Python, TensorFlow, Keras, OpenCV  
+#
 
 ---
 
-### 🌍 [World Population Analysis](https://github.com/sreekanth-ai/world-population-analysis)
-*Tools:* Python, Linear Regression  
-Analyzed global population growth trends and predicted future population using linear regression.
+### 💬 [Sentiment Analysis](https://github.com/sreekanth-ai/sentiment-analysis)
+<img align="left" width="250" height="150" src="https://github.com/sreekanth-ai/sreekanth-ai.github.io/blob/main/images/sentiment-analysis.jpg">  
+Performed sentiment classification on text data to identify positive, negative, or neutral opinions.  
+Used TF-IDF vectorization and Logistic Regression for accurate results.  
+
+**Tools:** Python, Scikit-learn, NLTK, NLP  
+#
 
 ---
 
@@ -68,17 +86,18 @@ Analyzed global population growth trends and predicted future population using l
 
 ---
 
-## 📜 Certifications
-- Data Preprocessing – Great Learning  
-- Machine Learning Internship – Unified Mentor  
-- Artificial Intelligence Internship – Adverk  
-- Python Training – CodingClub  
+## 🏆 Certifications
 
----
+- [Machine Learning Internship – Unified Mentor](https://github.com/sreekanth-ai/My-Certifications/blob/main/Machine%20Learning%20Internship%20-%20Unified%20Mentor.pdf)  
+- [Artificial Intelligence Internship – Adverk](https://github.com/sreekanth-ai/My-Certifications/blob/main/Artificial%20Intelligence%20Internship%20-%20Adverk.pdf)  
+- [Data Science Foundations – Great Learning](https://github.com/sreekanth-ai/My-Certifications/blob/main/Data%20Science%20Foundations%20-%20Great%20Learning.pdf)  
+- [Data Preprocessing – Great Learning](https://github.com/sreekanth-ai/My-Certifications/blob/main/Data%20Preprocessing%20-%20Great%20Learning.pdf)  
+- [Python for Data Science – Great Learning](https://github.com/sreekanth-ai/My-Certifications/blob/main/Python%20for%20Data%20Science%20-%20Great%20Learning.pdf)  
+- [SQL for Data Science – TestDome](https://github.com/sreekanth-ai/My-Certifications/blob/main/SQL%20for%20Data%20Science%20-%20TestDome.pdf)  
+- [Deep Learning Specialization – DeepLearning.AI](https://github.com/sreekanth-ai/My-Certifications/blob/main/Deep%20Learning%20Specialization%20-%20DeepLearning.AI.pdf)  
+- [Excel for Data Analysis – Great Learning](https://github.com/sreekanth-ai/My-Certifications/blob/main/Excel%20for%20Data%20Analysis%20-%20Great%20Learning.pdf)  
+- [Git and GitHub Essentials – Great Learning](https://github.com/sreekanth-ai/My-Certifications/blob/main/Git%20and%20GitHub%20Essentials%20-%20Great%20Learning.pdf)  
 
-## 🎓 Education
-**B.Tech in Computer Science (AI Specialization)**  
-Parul University, 8th Semester
 
 ---
 
